@@ -74,3 +74,10 @@ summoners-war-commons/.project
 summoners-war-commons/.settings/org.eclipse.buildship.core.prefs
 summoners-war-commons/build/libs/summoners-war-commons.jar
 summoners-war-commons/build/tmp/jar/MANIFEST.MF
+summoners-war-api/build/libs/summoners-war-api.jar
+summoners-war-api/build/tmp/jar/MANIFEST.MF
+.gradle/4.9/fileHashes/resourceHashesCache.bin
+.gradle/4.9/fileContent/annotation-processors.bin
+summoners-war-app/build/libs/summoners-war-app.war
+summoners-war-app/build/tmp/war/MANIFEST.MF
+.vscode/settings.json
