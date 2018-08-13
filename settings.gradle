@@ -1,0 +1,1 @@
+include ":summoners-war-api", ":summoners-war-commons", ":summoners-war-app"
